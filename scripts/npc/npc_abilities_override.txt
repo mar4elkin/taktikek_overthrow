@@ -1,0 +1,1236 @@
+
+// Dota Abilities Override File
+"DOTAAbilities"
+{
+	"Version"		"1"
+	
+	//=================================================================================================================
+	// Special Item Drops
+	//=================================================================================================================
+	"item_urn_of_shadows"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_ring_of_aquila"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_phase_boots"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_power_treads"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_blink"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_force_staff"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_cyclone"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_ghost"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_mask_of_madness"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_medallion_of_courage"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_soul_ring"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_blade_mail"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_dagon"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_shivas_guard"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_vanguard"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_sphere"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_vladmir"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_yasha"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_diffusal_blade"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_helm_of_the_dominator"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_mekansm"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_hood_of_defiance"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_veil_of_discord"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_basher"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_invis_sword"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_desolator"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_ultimate_scepter"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_dagon_5"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_greater_crit"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_sheepstick"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_manta"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_heart"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_mjollnir"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_bfury"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_pipe"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_heavens_halberd"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_crimson_guard"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_black_king_bar"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_bloodstone"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_ethereal_blade"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_radiance"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_abyssal_blade"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_butterfly"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_monkey_king_bar"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_rapier"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_glimmer_cape"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_lotus_orb"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_guardian_greaves"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_moon_shard"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_solar_crest"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_silver_edge"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_octarine_core"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	//=================================================================================================================
+	// Remove Dagon
+	//=================================================================================================================
+	"item_dagon"
+	{
+		"ItemPurchasable"				"0"
+	}
+	"item_dagon_1"
+	{
+		"ItemPurchasable"				"0"
+	}
+	"item_dagon_2"
+	{
+		"ItemPurchasable"				"0"
+	}
+	"item_dagon_3"
+	{
+		"ItemPurchasable"				"0"
+	}
+	"item_dagon_4"
+	{
+		"ItemPurchasable"				"0"
+	}
+	"item_dagon_5"
+	{
+		"ItemPurchasable"				"0"
+	}
+	"item_recipe_dagon"
+	{
+		"ItemPurchasable"				"0"
+	}
+	//=================================================================================================================
+	// Sentry Ward
+	//=================================================================================================================
+	"item_ward_sentry"
+	{
+		"ItemCost"						"100"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"lifetime"				"360"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"vision_range"			"0"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"true_sight_range"		"850"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"health"				"200"
+			}
+			"05"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"duration_minutes_tooltip"				"6"
+			}
+		}
+	}
+	//=================================================================================================================
+	// Dust
+	//=================================================================================================================
+	"item_dust"
+	{
+		"AbilityCooldown"				"1.0"
+		"ItemCost"						"1"
+	}
+	//=================================================================================================================
+	// Silencer: Glaives of Wisdom
+	//=================================================================================================================
+	"silencer_glaives_of_wisdom"
+	{
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"intellect_damage_pct"	"15 25 35 45"
+			}
+			"02"
+			{
+				"var_type"			"FIELD_INTEGER"
+				"steal_range"		"450"
+			}
+		}
+	}
+	//=================================================================================================================
+	// Ability: Necrolyte's Reaper's Scythe
+	//=================================================================================================================
+	"necrolyte_reapers_scythe"
+	{
+		"AbilitySpecial"
+		{
+			"07"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"respawn_constant"		"20"
+			}
+		}
+	}
+	//=================================================================================================================
+	// Zuus: Thundergod's Wrath
+	//=================================================================================================================
+	"zuus_thundergods_wrath"
+	{
+		"AbilityCooldown"				"120.0"
+		"AbilityManaCost"				"250 375 500"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"true_sight_radius"		"900 900 900"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"true_sight_radius_tooltip"		"500"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"sight_radius_day"		"500"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"sight_radius_night"	"500"
+			}
+			"05"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"sight_duration"		"3.0 3.0 3.0 3.0"
+			}
+			"06"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"damage"				"200 300 400"
+			}
+			"07"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"damage_scepter"		"350 450 550"
+			}
+		}
+	}
+	//=================================================================================================================
+	// Riki: Blink Strike
+	//=================================================================================================================
+	"riki_blink_strike"
+	{
+		"AbilityCastRange"				"400"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"tooltip_range"					"350"
+			}
+			"02"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"bonus_damage"					"10 20 30 40"
+			}
+		}
+	}
+	//=================================================================================================================
+	// Riki: Permanent Invisibility
+	//=================================================================================================================
+	"riki_permanent_invisibility"
+	{
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"						"FIELD_FLOAT"
+				"damage_multiplier"				"0.4 0.6 0.8 1.0"
+			}
+			"02"
+			{
+				"var_type"						"FIELD_INTEGER"
+				"backstab_angle"				"105 105 105 105"
+			}
+			"03"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"fade_time"					"0.0"
+			}
+			"04"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"fade_delay"				"0.0"
+			}
+			
+		}
+	}
+	//=================================================================================================================
+	// Bounty Hunter: Wind Walk
+	//=================================================================================================================
+	"bounty_hunter_wind_walk"
+	{
+		"AbilityCooldown"				"20.0 20.0 20.0 20.0"
+		"AbilityManaCost"				"100 90 80 70"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"duration"					"10.0 12.0 15.0 18.0"
+			}
+			"02"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"fade_time"					"2.0 1.5 1.0 0.5"
+			}
+			"03"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"bonus_damage"				"20 30 40 50"
+			}
+		}
+	}
+
+	//=================================================================================================================
+	// Ability: Pudge Flesh Heap
+	//=================================================================================================================
+	"pudge_flesh_heap"
+	{
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"						"FIELD_INTEGER"
+				"flesh_heap_magic_resist"		"6 8 10 12"
+			}
+			"02"
+			{
+				"var_type"							"FIELD_FLOAT"
+				"flesh_heap_strength_buff_amount"	"0.5 0.75 1.0 1.25"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"flesh_heap_range"		"225"
+			}
+		}
+	}
+	//=================================================================================================================
+	// Obsidian Destroyer: Arcane Orb
+	//=================================================================================================================
+	"obsidian_destroyer_arcane_orb"
+	{
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"mana_pool_damage_pct"	"5 6 7 8"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"illusion_damage"		"100 200 300 400"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"int_steal"		"1 2 3 4"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"int_steal_duration"		"15"
+			}
+		}
+	}
+	//=================================================================================================================
+	// NIKITA
+	//=================================================================================================================
+	"spirit_breaker_greater_bash"
+	{
+		"AbilityCooldown"				"1.5 2.5 3.5 4.5"
+
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"chance_pct"			"50"
+				"LinkedSpecialBonus"	"special_bonus_unique_spirit_breaker_1"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"damage"				"100 300 400 1000"
+				"LinkedSpecialBonus"	"special_bonus_unique_spirit_breaker_3"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"duration"				"0.9 1.2 1.5 1.8"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"knockback_duration"	"2.5 3.6 3.7 3.9"
+			}
+			"05"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"knockback_distance"	"50 100 150 500"
+			}
+			"06"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"knockback_height"		"50 50 50 50"
+			}
+			"07"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_movespeed_pct"	"17"
+			}
+			"08"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"movespeed_duration"	"3.0 3.0 3.0 3.0"
+			}
+		}
+	}
+	//=================================================================================================================
+	// GOSHA
+	//=================================================================================================================
+	"lion_finger_of_death"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"ID"					"5047"														// unique ID number for this ability.  Do not change this once established or it will invalidate collected stats.
+		"AbilityType"					"DOTA_ABILITY_TYPE_BASIC"
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_AOE"
+		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_ENEMY"
+		"AbilityUnitTargetType"			"DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+		"AbilityUnitDamageType"			"DAMAGE_TYPE_MAGICAL"	
+		"SpellImmunityType"				"SPELL_IMMUNITY_ENEMIES_NO"
+		"FightRecapLevel"				"2"
+		"AbilitySound"					"Hero_Lion.FingerOfDeath"
+
+		"HasScepterUpgrade"			"1"
+		
+		// Casting
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCastRange"				"900"
+		"AbilityCastPoint"				"0.3 0.3 0.3"
+		"AbilityCastAnimation"		"ACT_DOTA_CAST_ABILITY_4"
+
+		// Time		
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCooldown"				"35.0 25.0 20.0 15.0"
+
+		// Cost
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityManaCost"				"100 200 250 300"
+		
+		// Stats
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityModifierSupportValue"	"0.0"	// Modifier just delays damage
+
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"damage"					"100 150 200"
+				"LinkedSpecialBonus"			"special_bonus_unique_lion_3"
+			}
+			"02"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"damage_scepter"			"725 875 1025"
+				"LinkedSpecialBonus"			"special_bonus_unique_lion_3"
+				"RequiresScepter"			"1"
+			}
+			"03"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"damage_per_kill"			"0"
+				"CalculateSpellDamageTooltip"	"0"
+			}
+			"04"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"grace_period"				"3"
+			}			
+			"05"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"mana_cost_scepter"			"200 420 625"
+				"RequiresScepter"			"1"
+			}
+			"06"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"damage_delay"				"0.25"
+				"CalculateSpellDamageTooltip"	"0"
+			}
+			"07"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"cooldown_scepter"			"100.0 60.0 20.0"
+				"RequiresScepter"			"1"
+			}
+			"08"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"splash_radius_scepter"		"325"
+				"RequiresScepter"			"1"
+			}
+		}
+	}
+	"riki_blink_strike"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"ID"					"5143"														// unique ID number for this ability.  Do not change this once established or it will invalidate collected stats.
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_BACKSWING | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_CUSTOM"
+		"AbilityUnitTargetType"			"DOTA_UNIT_TARGET_CUSTOM"
+		"AbilityUnitDamageType"			"DAMAGE_TYPE_MAGICAL"	
+		"SpellImmunityType"				"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilitySound"					"Hero_Riki.Blink_Strike"
+
+		// Casting
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCastRange"				"600 700 800 900"
+		"AbilityCastPoint"				"0.3"
+
+		// Time		
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCooldown"				"0.1"
+		"AbilityCharges"				"20"
+		"AbilityChargeRestoreTime"		"25 20 15 10"
+
+		// Cost
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityManaCost"				"50"
+		
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"abilitycastrange"					""
+				"LinkedSpecialBonus"		"special_bonus_unique_riki_3"
+			}
+			"02"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"bonus_damage"				"25 50 75 100"
+			}
+		}
+		"AbilityCastAnimation"		"ACT_DOTA_CAST_ABILITY_2"
+	}
+	"riki_backstab"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"ID"					"5144"														// unique ID number for this ability.  Do not change this once established or it will invalidate collected stats.
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"AbilityUnitDamageType"			"DAMAGE_TYPE_PHYSICAL"	
+		"SpellImmunityType"				"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilityType"					"DOTA_ABILITY_TYPE_BASIC"
+		"SpellDispellableType"			"SPELL_DISPELLABLE_NO"
+		
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"						"FIELD_FLOAT"
+				"damage_multiplier"				"2.0 3.5 4.0 4.5"
+				"LinkedSpecialBonus"		"special_bonus_unique_riki_1"
+				"CalculateSpellDamageTooltip"	"0"
+			}
+			"02"
+			{
+				"var_type"						"FIELD_INTEGER"
+				"backstab_angle"				"105 105 105"
+			}
+			"03"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"fade_delay"					"0"
+			}
+		}
+		"AbilityCastAnimation"		"ACT_DOTA_CAST_ABILITY_3"
+	}
+	"slark_shadow_dance"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"ID"							"5497"							// unique ID number for this ability.  Do not change this once established or it will invalidate collected stats.
+		"AbilityType"					"DOTA_ABILITY_TYPE_ULTIMATE"
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+		"SpellDispellableType"			"SPELL_DISPELLABLE_NO"
+		"FightRecapLevel"				"2"
+		"AbilitySound"					"Hero_Slark.ShadowDance"
+		"AbilityCastAnimation"			"ACT_DOTA_CAST_ABILITY_4"
+
+		// Time		
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCooldown"				"80 70 60"
+		
+		// Cost
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityManaCost"				"120 120 120"		
+
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			
+			"01"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"duration"					"4 4.25 4.5"
+				"LinkedSpecialBonus"	"special_bonus_unique_slark_3"
+			}
+			"02"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"fade_time"					"0.0 0.0 0.0"
+			}
+			"03"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"bonus_movement_speed"		"20 35 50"
+			}
+			"04"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"bonus_regen_pct"			"0"
+			}
+			"05"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"activation_delay"			"0.5 0.5 0.5"
+			}
+			"06"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"neutral_disable"			"2.0 2.0 2.0"
+			}
+			
+		}
+	}
+
+	//=================================================================================================================
+	// ANDREW
+	//=================================================================================================================
+	"filler_ability"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"ID"							"6226"														// unique ID number for this ability.  Do not change this once established or it will invalidate collected stats.
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+		"MaxLevel"						"1"
+
+		// Time		
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCooldown"				"10"
+
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"hp_heal"				"90"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"mp_heal"				"50"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"hp_heal_growth"		"0"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"mp_heal_growth"		"0"
+			}
+			"05"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"hp_heal_pct"				"2"
+			}
+			"06"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"mp_heal_pct"				"2"
+			}
+			"07"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"duration"				"5"
+			}
+			"08"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"radius"				"500"
+			}
+			"09"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"initial_cooldown"		"0"
+			}
+			
+		}
+		"AbilityCastAnimation"		"ACT_DOTA_CAST_ABILITY_2"
+	}
+	"dragon_knight_dragon_blood"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"ID"							"5228"							// unique ID number for this ability.  Do not change this once established or it will invalidate collected stats.
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"						"FIELD_INTEGER"
+				"bonus_health_regen"			"10 20 30 65"
+				"LinkedSpecialBonus"			"special_bonus_unique_dragon_knight"
+				"LinkedSpecialBonusOperation"	"SPECIAL_BONUS_MULTIPLY"
+			}
+			"02"
+			{
+				"var_type"						"FIELD_INTEGER"
+				"bonus_armor"					"10 20 30 65"
+				"LinkedSpecialBonus"			"special_bonus_unique_dragon_knight"
+				"LinkedSpecialBonusOperation"	"SPECIAL_BONUS_MULTIPLY"
+			}
+		}
+		"AbilityCastAnimation"		"ACT_DOTA_CAST_ABILITY_3"
+	}
+
+	"pudge_flesh_heap"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"ID"					"5074"														// unique ID number for this ability.  Do not change this once established or it will invalidate collected stats.
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		
+
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"						"FIELD_FLOAT"
+				"magic_resistance"				"8 10 22 34"
+			}
+			"02"
+			{
+				"var_type"							"FIELD_FLOAT"
+				"flesh_heap_strength_buff_amount"	"2.0 3.5 4 6.5"
+				"LinkedSpecialBonus"			"special_bonus_unique_pudge_1"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"flesh_heap_range"		"450"
+			}
+		}
+		"AbilityCastAnimation"		"ACT_DOTA_CAST_ABILITY_3"
+	}
+
+	"centaur_double_edge"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"ID"							"5515"														// unique ID number for this item.  Do not change this once established or it will invalidate collected stats.
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+		"AbilityType"					"DOTA_ABILITY_TYPE_ULTIMATE"
+		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_ENEMY"
+		"AbilityUnitTargetType"			"DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+		"AbilityUnitDamageType"			"DAMAGE_TYPE_MAGICAL"
+		"SpellImmunityType"				"SPELL_IMMUNITY_ENEMIES_NO"
+		"FightRecapLevel"				"1"
+		"AbilitySound"					"Hero_Centaur.DoubleEdge"
+
+		// Stats		
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCooldown"				"5.0"
+		"AbilityCastRange"				"150 150 150 150"
+		"AbilityCastPoint"				"0.4"
+
+		//------------------------------------------------------------------------------
+		"AbilityManaCost"				"0 0 0 0"
+
+		// Special	
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{			
+			"01"
+			{
+				"var_type"						"FIELD_INTEGER"
+				"edge_damage"					"120 180 240 300"
+			}
+			"02"
+			{
+				"var_type"						"FIELD_INTEGER"
+				"strength_damage"				"60 80 100 120"
+				"LinkedSpecialBonus"			"special_bonus_unique_centaur_4"
+			}
+			"03"
+			{
+				"var_type"						"FIELD_INTEGER"
+				"radius"						"190"
+			}
+		}
+		"AbilityCastAnimation"		"ACT_DOTA_CAST_ABILITY_2"
+	}
+
+	//=================================================================================================================
+	// Елисей
+	//=================================================================================================================
+
+	"gyrocopter_homing_missile"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"ID"							"5362"														// unique ID number for this ability.  Do not change this once established or it will invalidate collected stats.
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_BACKSWING"
+		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_ENEMY"
+		"AbilityUnitTargetType"			"DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+		"AbilityUnitDamageType"			"DAMAGE_TYPE_MAGICAL"
+		"SpellImmunityType"				"SPELL_IMMUNITY_ENEMIES_NO"
+		"SpellDispellableType"			"SPELL_DISPELLABLE_YES_STRONG"
+		"FightRecapLevel"				"1"
+
+		// Casting
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCastRange"				"1050"
+		"AbilityCastPoint"				"0"
+
+		// Time		
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCooldown"				"26 21 16 11"
+		
+		// Cost
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityManaCost"				"120 130 140 150"
+
+		// Damage.
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityDamage"					"100 175 250 325"
+		
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"hits_to_kill_tooltip"		"3"
+			}
+			"02"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"tower_hits_to_kill_tooltip"		"6"
+			}
+			"03"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"stun_duration"				"2.25 2.5 2.75 3.0"
+				"LinkedSpecialBonus"		"special_bonus_unique_gyrocopter_6"
+			}
+			"04"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"attack_speed_bonus_pct"	"400 400 400 400"
+			}
+			"05"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"min_damage"				"50"
+			}
+			"06"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"max_distance"				"1500"
+			}
+			"07"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"pre_flight_time"			"3"
+			}
+			"08"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"hero_damage"				"34"
+			}
+			"09"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"speed"						"500"
+			}
+			"10"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"acceleration"				"20"
+			}
+			"11"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"enemy_vision_time"			"4"
+			}	
+			"12"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"AbilityCharges"		""
+				"LinkedSpecialBonus"	"special_bonus_unique_gyrocopter_1"
+			}
+		}
+		"AbilityCastAnimation"		"ACT_DOTA_CAST_ABILITY_2"
+	}	
+
+	"silencer_global_silence"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"ID"							"5380"														// unique ID number for this ability.  Do not change this once established or it will invalidate collected stats.
+		"AbilityType"					"DOTA_ABILITY_TYPE_ULTIMATE"
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+		"SpellImmunityType"				"SPELL_IMMUNITY_ENEMIES_YES"
+		"SpellDispellableType"			"SPELL_DISPELLABLE_YES"
+		"FightRecapLevel"				"2"
+		"AbilitySound"					"Hero_Silencer.GlobalSilence.Cast"
+
+		// Casting
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCastPoint"				"0.3 0.3 0.3"
+		"AbilityCastAnimation"			"ACT_DOTA_CAST_ABILITY_4"
+
+		// Time		
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCooldown"				"130.0"
+		"AbilityDuration"				"7.5 8.25 20.0"
+
+
+		// Cost
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityManaCost"				"300 450 600"
+
+		// Stats
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityModifierSupportValue"	"0.5"	// Hits all units on the map.
+
+		
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"abilityduration"		""
+				"LinkedSpecialBonus"	"special_bonus_unique_silencer_4"
+			}
+		}
+	}
+
+	//=================================================================================================================
+	// n3d
+	//=================================================================================================================
+	"earthshaker_fissure"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"ID"					"5023"														// unique ID number for this ability.  Do not change this once established or it will invalidate collected stats.
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_IGNORE_BACKSWING"
+		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_ENEMY"
+		"AbilityUnitTargetType"			"DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+		"AbilityUnitDamageType"			"DAMAGE_TYPE_MAGICAL"	
+		"SpellImmunityType"				"SPELL_IMMUNITY_ENEMIES_NO"
+		"SpellDispellableType"			"SPELL_DISPELLABLE_YES_STRONG"
+		"FightRecapLevel"				"1"
+		"AbilitySound"					"Hero_EarthShaker.Fissure"
+
+		// Casting
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCastRange"				"1400"
+		"AbilityCastPoint"				"0.69 0.69 0.69 0.69"
+
+		// Time		
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCooldown"				"21 19 17 15"
+
+		// Damage.
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityDamage"					"50 100 300 900"
+
+		// Cost
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityManaCost"				"110 130 150 170"		
+
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"fissure_range"				"5000"
+				"LinkedSpecialBonus"		"special_bonus_unique_earthshaker_3"
+			}
+			"02"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"fissure_duration"			"20.0"
+			}
+			"03"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"fissure_radius"				"700"
+			}
+			"04"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"stun_duration"				"5.75"
+			}
+		}
+		"AbilityCastAnimation"		"ACT_DOTA_CAST_ABILITY_1"
+	}
+
+	//=================================================================================================================
+	// aleshkin
+	//=================================================================================================================
+
+
+	"techies_suicide"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"ID"							"5601"														// unique ID number for this ability.  Do not change this once established or it will invalidate collected stats.
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_AOE | DOTA_ABILITY_BEHAVIOR_NORMAL_WHEN_STOLEN"
+		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_ENEMY"
+		"SpellImmunityType"				"SPELL_IMMUNITY_ENEMIES_NO"
+		"AbilityUnitDamageType"			"DAMAGE_TYPE_MAGICAL"
+		"SpellDispellableType"			"SPELL_DISPELLABLE_YES"
+		"FightRecapLevel"				"1"
+
+		// Casting
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCastRange"				"1000000000000"
+		"AbilityCastPoint"				"1.0"
+
+		// Time		
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCooldown"				"35"
+
+		// Cost
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityManaCost"				"100 125 150 175"
+
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"radius"				"300"
+			}
+			"02"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"damage"					"1000 1000 10000 10000"
+				"LinkedSpecialBonus"		"special_bonus_unique_techies"
+			}
+			"03"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"silence_duration"			"4 5 6 7"
+			} 
+			"04"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"hp_cost"			"50"
+			} 
+			"05"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"duration"				"0.75"
+			}
+		}
+		"AbilityCastAnimation"		"ACT_DOTA_CAST_ABILITY_3"
+	}
+}

@@ -1,0 +1,194 @@
+// Dota Heroes File
+// NOTE: This is not for creating new heroes, this is for taking a currently existing hero as a template and overriding
+// the specified key-value combinations.  Use override_hero <hero_to_override> for this.
+"DOTAHeroes"
+{
+
+    // "AttributePrimary"		"DOTA_ATTRIBUTE_AGILITY"
+    // "AttributeBaseStrength"		""
+    // "AttributeStrengthGain"		""
+    // "AttributeBaseIntelligence"		""
+    // "AttributeIntelligenceGain"		""
+    // "AttributeBaseAgility"		""
+    // "AttributeAgilityGain"		""
+
+    // "AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+    // "AttackDamageMin"		""
+    // "AttackDamageMax"		""
+    // "AttackRate"		""
+    // "AttackAnimationPoint"		""
+    // "AttackAcquisitionRange"		""
+    // "AttackRange"		""
+    // "ProjectileSpeed"
+        
+    // Марк
+    "npc_dota_hero_puck_mark"
+	{
+        "override_hero" "npc_dota_hero_puck"
+        // удалить джаву 
+        //Взлом жопы
+    }
+    
+    // Никита
+
+    "npc_dota_hero_invoker_nikita"
+    {
+        "override_hero" "npc_dota_hero_invoker"
+        "MovementSpeed"		"1000"
+        
+        "StatusHealthRegen"	    "0.1"
+        "AttributeBaseStrength" "1"
+        "AttributeStrengthGain" "1"
+
+        "Ability1"		"bloodseeker_thirst"
+		"Ability2"		"spirit_breaker_greater_bash"
+        "Ability3"		"generic_hidden"
+		"Ability4"		"generic_hidden"
+        "Ability5"      "generic_hidden"
+        "Ability6"      "generic_hidden"
+        
+    }
+
+    // Гоша
+
+    "npc_dota_hero_riki_gosha"
+    {
+        "override_hero" "npc_dota_hero_riki"
+
+        "AttackDamageMin" "30"
+		"AttackDamageMax" "41"
+        "MovementSpeed"		"250"
+
+        // сила
+		"AttributeBaseStrength"		"18"
+        "AttributeStrengthGain"		"2"
+        // интелект
+		"AttributeBaseIntelligence"	"14"
+        "AttributeIntelligenceGain"	"2"
+        // ловкость
+		"AttributeBaseAgility"		"25"
+		"AttributeAgilityGain"		"1.4"
+
+        "Ability1"      "riki_backstab"
+        "Ability2"		"lion_finger_of_death"
+        "Ability3"      "riki_blink_strike"
+		"Ability4"		"generic_hidden"
+        "Ability5"      "generic_hidden"
+        "Ability6"      "slark_shadow_dance"
+    }
+
+    // Андрю
+
+    "npc_dota_hero_dragon_knight_andrew"
+    {
+        "override_hero" "npc_dota_hero_dragon_knight"
+        
+        // сила
+		"AttributeBaseStrength"		"0"
+        "AttributeStrengthGain"		"2.75"
+        // интелект
+		"AttributeBaseIntelligence"	"14"
+        "AttributeIntelligenceGain"	"2"
+        // ловкость
+		"AttributeBaseAgility"		"12"
+        "AttributeAgilityGain"		"2"
+        
+        "AttackDamageMin" "40"
+        "AttackDamageMax" "50"
+        
+        "Ability1"		"healing_pizza"
+        "Ability2"      "dragon_knight_dragon_blood"
+        "Ability3"      "pudge_flesh_heap"
+        "Ability4"      "generic_hidden"
+        "Ability5"      "generic_hidden"
+		"Ability6"		"centaur_double_edge"
+
+    }
+
+    // Елисей
+
+    "npc_dota_hero_gyrocopter_gytler"
+    {
+        "override_hero" "npc_dota_hero_gyrocopter"
+        //гачи взрыв
+        //вызов гитлера
+
+        "Ability1" "gyrocopter_homing_missile"
+        "Ability2" "silencer_global_silence"
+        "Ability3"		"generic_hidden"
+		"Ability4"		"generic_hidden"
+        "Ability5"      "generic_hidden"
+        "Ability6"      "generic_hidden"
+
+
+    }
+
+    // Нэд
+
+    "npc_dota_hero_earthshaker_n3d"
+    {
+        "override_hero" "npc_dota_hero_earthshaker"
+        //я землю шатал
+        //fx лучший
+
+        
+        //хрепты кавказа
+        "Ability1" "earthshaker_fissure"
+        "Ability2" "generic_hidden"
+        "Ability3"		"generic_hidden"
+		"Ability4"		"generic_hidden"
+        "Ability5"      "generic_hidden"
+        "Ability6"      "generic_hidden"
+    }
+
+    // саня
+
+    "npc_dota_hero_undying_sanya"
+    {
+        "override_hero" "npc_dota_hero_undying"
+
+        //Скил уйти на 3 года
+        //пассивка торч
+
+    }
+
+    // Акшин
+
+    "npc_dota_hero_troll_warlord_pizdaka"
+    {
+        "override_hero" "npc_dota_hero_troll_warlord"
+        //адский крик 
+
+    }
+
+    // Макс
+
+    "npc_dota_hero_tiny_maks"
+    {
+        "override_hero" "npc_dota_hero_tiny"
+
+        //Затарить кмень 
+        //пойти в овер
+
+    }
+
+    // Алешкин 
+
+    "npc_dota_hero_skywrath_mage_aleskin"
+    {
+        "override_hero" "npc_dota_hero_skywrath_mage"
+
+        "Ability1" "techies_suicide"
+        "Ability2" "generic_hidden"
+        "Ability3"		"generic_hidden"
+		"Ability4"		"generic_hidden"
+        "Ability5"      "generic_hidden"
+        "Ability6"      "generic_hidden"
+
+    }
+
+
+
+
+
+}
